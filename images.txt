@@ -1,2 +1,2 @@
 mzz2017/v2raya
-portainer/portainer-ce
+portainer/portainer-ce:2.27.9
